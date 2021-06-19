@@ -10,3 +10,5 @@
 협업 노션 - https://www.notion.so/e7635012ea35475292b517a7ffa314a3
 언어 - 파이썬
 프레임워크 - 장고
+
+최종 플젝 깃허브 - https://github.com/kkkmj/pythonProject
